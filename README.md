@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics and web/app development.  
 - 🌱 I’m currently learning new tools and coding techniques to enhance my projects.  
 - 💞️ I’m looking to collaborate on innovative tech projects.  
-- 📫 How to reach me: alvinson.dev@gmail.com  
 - 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I once programmed a robot to draw cool designs on walls!  
+- ⚡ Fun fact: I once programmed a robot to draw cool designs on walls!
+- 📫 How to reach me: alvinson.dev@gmail.com  
 - 📍 More about me on: https://alvinson-tech.github.io/My-Website/
