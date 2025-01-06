@@ -5,4 +5,4 @@
 - 💞️ I’m looking to collaborate on innovative tech projects.  
 - ⚡ Fun fact: I once programmed a robot to draw cool designs on walls!
 - 📫 How to reach me: alvinson.dev@gmail.com  
-- 📍 More about me on: https://alvinson-tech.github.io/My-Website/
+- 📍 More about me on: https://alvinson.netlify.app/
