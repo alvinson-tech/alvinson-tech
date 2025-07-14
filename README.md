@@ -5,8 +5,8 @@ I'm @alvinson-tech — a curious human who loves building cool stuff, exploring 
 ## 🚀 What I’m Up To
 - 🛠️ Currently working on fun and useful tech projects
 - 🌱 Continuously learning new tools, frameworks, and ideas
-- 🧑‍💻 On a mission to become an **Ethical Hacker**
 - 💡 Passionate about turning thoughts into products
+- 🧑‍💻 On a mission to become an **Ethical Hacker**
 
 ## 📫 Let's Connect!
 - 📧 Email: [alvinson.tech@gmail.com](mailto:alvinson.tech@gmail.com)  
