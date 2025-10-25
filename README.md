@@ -10,7 +10,7 @@ I'm @alvinson-tech — a curious human who loves building cool stuff, exploring 
 
 ## 📫 Let's Connect!
 - 📧 Email: [alvinson.tech@gmail.com](mailto:alvinson.tech@gmail.com)  
-- 🌐 Portfolio: [alvinsonny.netlify.app](https://alvinsonny.netlify.app/)
+- 🌐 Portfolio: [alvinunleashed.tech](http://www.alvinunleashed.tech)
 
 ## 😄 Fun Bits
 - Pronouns: He/Him  
