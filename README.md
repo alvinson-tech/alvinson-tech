@@ -1,17 +1,43 @@
 # 👋 Hey there, I'm Alvin!
 
-I'm @alvinson-tech — a curious human who loves building cool stuff, exploring tech, and bringing ideas to life. From late-night coding sessions to weekend side quests, I'm all about learning, creating, and growing.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+cool+stuff;Exploring+new+tech;Future+Ethical+Hacker;Solving+puzzles" alt="Typing SVG" />
+</p>
 
-## 🚀 What I’m Up To
-- 🛠️ Currently working on fun and useful tech projects
-- 🌱 Continuously learning new tools, frameworks, and ideas
-- 💡 Passionate about turning thoughts into products
-- 🧑‍💻 On a mission to become an **Ethical Hacker**
+### 👨‍💻 About Me
+I'm **@alvinson-tech** — a curious human who loves building cool stuff and bringing ideas to life. From late-night coding sessions to weekend side quests, I'm all about learning, creating, and growing.
 
-## 📫 Let's Connect!
-- 📧 Email: [alvinson.tech@gmail.com](mailto:alvinson.tech@gmail.com)  
-- 🌐 Portfolio: [alvinunleashed.live](http://www.alvinunleashed.live)
+- 🛠️ **Current Focus:** Building fun and useful tech projects.
+- 🧑‍💻 **Mission:** Training to become a top-tier **Ethical Hacker**.
+- 🧩 **Off-duty:** Solving Rubik’s Cubes and complex jigsaw puzzles.
 
-## 😄 Fun Bits
-- Pronouns: He/Him  
-- 🧩 I love solving Rubik’s Cubes and jigsaw puzzles
+---
+
+### 🛠️ Tech Stack & Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,js,react,nodejs,html,css,git,linux,kali,bash,docker,vscode" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alvinson-tech&show_icons=true&theme=tokyonight&hide_border=true" alt="Alvin's GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvinson-tech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alvinson-tech&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+<p align="left">
+<a href="mailto:alvinson.tech@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="http://www.alvinunleashed.live"><img src="https://img.shields.io/badge/Portfolio-0078D4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+</p>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=alvinson-tech&label=Profile%20Views&color=0078d4&style=flat" alt="Profile Views" />
+</p>
