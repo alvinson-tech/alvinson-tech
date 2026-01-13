@@ -20,7 +20,7 @@ I focus on the adversary mindset to build more resilient systems. My current res
 
 ---
 
-### 💻 Web Development & Full-Stack Foundation
+### 💻 Web Development
 Before diving into the offensive side, I built a strong foundation in web technologies. Understanding how the web is built allows me to better understand how it can be secured.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
